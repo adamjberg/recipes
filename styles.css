@@ -1,0 +1,17 @@
+html {
+  background-color: black;
+  color: white;
+  font-size: 1.2rem;
+  padding: 16px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+a {
+  display: block;
+  color: white;
+}
